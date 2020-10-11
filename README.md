@@ -2,5 +2,5 @@
 
 
 
-These codes are copyrighted by reasley.\n
+These codes are copyrighted by reasley.
 Unauthorized theft, modification, and distribution are prohibited.
